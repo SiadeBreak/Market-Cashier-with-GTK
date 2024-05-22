@@ -80,7 +80,7 @@ Por fim, na aba *Linker settings*, cole a seguinte linha no campo *Other linker 
 
 ![image](https://github.com/SiadeBreak/Market-Cashier-with-GTK/assets/53356154/9357f794-fbac-48ab-ab27-7aedc755a3e8)
 
-Pronto! Sua IDE e sua biblioteca GTK estão configuradas! Copie e cole todo o código do arquivo .txt **Market Cashier Code** no Empty File criado e clique em Build and run.
+Pronto! Sua IDE e sua biblioteca GTK estão configuradas! Copie e cole todo o código do arquivo **Market Cashier Code** no Empty File criado e clique em Build and run.
 
 ![image](https://github.com/SiadeBreak/Market-Cashier-with-GTK/assets/53356154/ad924194-4374-4cf7-86db-dd7691880d87)
 
