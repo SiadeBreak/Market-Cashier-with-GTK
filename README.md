@@ -2,13 +2,13 @@
 
 ## Project Description
 
-**Market Cashout** is a simple graphical application developed in C using the GTK library, which simulates a supermarket cashier system. The system allows the user to add products with name, code and price, calculate the total purchase amount, and finalize the transaction. This project was created with the intention of demonstrating the implementation of an intuitive and functional graphical interface for point of sale (POS) operations and was developed as part of the final workshop for the Introduction to Computing course.
+**Market Checkout** is a simple graphical application developed in C using the GTK library, which simulates a supermarket cashier system. The system allows the user to add products with name, code and price, calculate the total purchase amount, and finalize the transaction. This project was created with the intention of demonstrating the implementation of an intuitive and functional graphical interface for point of sale (POS) operations and was developed as part of the final workshop for the Introduction to Computing course.
 
 ### Key Features
 
 - **Adding Products**: Allows the user to add products to the shopping cart by providing the name, code, and price of each item.
 - **Total Calculation**: Automatically calculates the total purchase amount as products are added.
-- **Checkout**: Simulates the checkout, displaying the total to be paid and issuing a detailed transaction invoice.
+- **Checkout**: Simulates the checkout, displaying the total to be paid and issuing a detailed transaction receipt.
 - **Manager Section**: Enables the manager to add new products to the inventory, including information such as name, code, and price, ensuring that the inventory is always up to date.
 
 ### Technologies Used
@@ -29,7 +29,7 @@ The main objective of this project is to provide a practical experience in devel
 
 ## Descrição do Projeto
 
-**Market Cashier** é uma simples aplicação gráfica desenvolvida em C utilizando a biblioteca GTK, que simula o sistema de um caixa de supermercado. O sistema permite que o usuário adicione produtos com nome, código e preço, calcule o total da compra e finalize a transação. Este projeto foi criado com o intuito de demonstrar a implementação de uma interface gráfica intuitiva e funcional para operações de ponto de venda (POS) e foi desenvolvido como parte do workshop final da disciplina de Introdução à Computação.
+**Market Checkout** é uma simples aplicação gráfica desenvolvida em C utilizando a biblioteca GTK, que simula o sistema de um caixa de supermercado. O sistema permite que o usuário adicione produtos com nome, código e preço, calcule o total da compra e finalize a transação. Este projeto foi criado com o intuito de demonstrar a implementação de uma interface gráfica intuitiva e funcional para operações de ponto de venda (POS) e foi desenvolvido como parte do workshop final da disciplina de Introdução à Computação.
 
 ### Funcionalidades Principais
 
