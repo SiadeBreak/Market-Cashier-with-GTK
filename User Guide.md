@@ -26,11 +26,11 @@ The Software was developed using the C language and requires the installation of
 
 4. **Install GTK components**: In the same terminal, copy and paste all the following commands:
 
-`*pacman -S mingw-w64-x86_64-gtk4*`
+`pacman -S mingw-w64-x86_64-gtk4`
 
-`*pacman -S mingw-w64-x86_64-gtk3*`
+`pacman -S mingw-w64-x86_64-gtk3`
 
-`*pacman -S mingw-w64-x86_64-toolchain base-devel*`
+`pacman -S mingw-w64-x86_64-toolchain base-devel`
 
 <br>
 
